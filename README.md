@@ -4,4 +4,4 @@
 
 
 # Classification-Project-Based-on-Iris-dataset-
-This is classification project. Main Purpose ofthis project is classify the flower is iris flower or not. For completing this project, use the Julia programing language, and Machine Learning Algorithms (ML).
+This is classification project. Main Purpose of this project is classify the  iris flower  belongs to  virgina or setosa or virsicola. For completing this project, use the Julia programing language, iris dataset (inbuild dataset) and Machine Learning Algorithm (ML) called Decision Tree Classifier.
