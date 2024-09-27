@@ -1,4 +1,5 @@
-![Julia Logo](https://raw.githubusercontent.com/JuliaLang/julia/main/brand/logo.svg)
+![Julia Logo](https://julialang.org/assets/images/julia-logo.svg)
+
 
 
 
